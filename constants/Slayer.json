@@ -6,51 +6,51 @@
           "name": "Graveyard Zombie",
           "level": 1,
           "max_health": 100,
-          "xp": 6.0
+          "xp": 5.0
         },
         {
           "name": "Zombie Villager",
-          "level": 1,
+          "level": 2,
           "max_health": 120,
-          "xp": 7.0
+          "xp": 5.0
         }
       ],
       "Revenant Cave": [
         {
           "name": "Crypt Ghoul",
-          "level": 30,
+          "level": 33,
           "max_health": 2000,
-          "xp": 36.0
+          "xp": 49.0
         },
         {
           "name": "§6Golden Ghoul",
-          "level": 60,
+          "level": 65,
           "max_health": 45000,
-          "xp": 50.0
+          "xp": 97.0
         }
       ],
       "Lapis Quarry": [
         {
           "name": "Lapis Zombie",
-          "level": 15,
+          "level": 6,
           "max_health": 200,
-          "xp": 12.0
+          "xp": 9.0
         }
       ],
       "Diamond Reserve": [
         {
           "name": "Miner Skeleton",
-          "level": 15,
+          "level": 11,
           "max_health": 200,
-          "xp": 20.0
+          "xp": 16.0
         }
       ],
       "Obsidian Sanctuary": [
         {
           "name": "Miner Zombie",
-          "level": 20,
+          "level": 13,
           "max_health": 250,
-          "xp": 24.0
+          "xp": 19.0
         }
       ]
     },
@@ -58,67 +58,61 @@
       "Spider Mound": [
         {
           "name": "Splitter Spider",
-          "level": 2,
-          "max_health": 170,
-          "xp": 9.5
+          "level": 4,
+          "max_health": 180,
+          "xp": 6.0
         },
         {
           "name": "Voracious Spider",
-          "level": 2,
-          "max_health": 170,
-          "xp": 9.5
+          "level": 9,
+          "max_health": 300,
+          "xp": 13.0
         },
         {
           "name": "Weaver Spider",
-          "level": 3,
-          "max_health": 170,
-          "xp": 9.5
+          "level": 4,
+          "max_health": 176,
+          "xp": 6.0
         },
         {
           "name": "Dasher Spider",
-          "level": 3,
+          "level": 5,
           "max_health": 170,
-          "xp": 10.5
+          "xp": 7.0
         },
         {
           "name": "Spider Jockey",
-          "level": 3,
-          "max_health": 170,
-          "xp": 9.42
+          "level": 6,
+          "max_health": 220,
+          "xp": 9.0
         },
         {
           "name": "Dasher Spider",
-          "level": 4,
-          "max_health": 170,
-          "xp": 10.57
-        },
-        {
-          "name": "Cave Spider",
-          "level": 6,
-          "max_health": 1200,
+          "level": 7,
+          "max_health": 210,
           "xp": 10.0
         },
         {
-          "name": "Voracious Spider",
-          "level": 10,
-          "max_health": 300,
-          "xp": 10.57
+          "name": "Cave Spider",
+          "level": 12,
+          "max_health": 600,
+          "xp": 18.0
         }
       ],
       "Arachne's Burrow": [
         {
           "name": "Voracious Spider",
-          "level": 45,
-          "max_health": 1150,
+          "level": 11,
+          "max_health": 360,
           "xp": 30.0
         }
       ],
       "Burning Desert": [
         {
           "name": "Flaming Spider",
-          "level": 80,
-          "max_health": 1000000,
-          "xp": 120.0
+          "level": 140,
+          "max_health": 500000,
+          "xp": 125.0
         }
       ]
     },
@@ -126,15 +120,15 @@
       "Ruins": [
         {
           "name": "Wolf",
-          "level": 15,
-          "max_health": 250,
-          "xp": 15.0
+          "level": 11,
+          "max_health": 500,
+          "xp": 16.0
         },
         {
           "name": "Old Wolf",
-          "level": 50,
+          "level": 67,
           "max_health": 15000,
-          "xp": 40.0
+          "xp": 100.0
         }
       ]
     },
@@ -142,51 +136,51 @@
       "no_area": [
         {
           "name": "Enderman",
-          "level": 42,
+          "level": 45,
           "max_health": 4500,
-          "xp": 40.0
+          "xp": 67.0
         },
         {
           "name": "Enderman",
-          "level": 45,
+          "level": 51,
           "max_health": 6000,
-          "xp": 42.0
+          "xp": 76.0
         },
         {
           "name": "Enderman",
           "level": 50,
           "max_health": 9000,
-          "xp": 44.0
+          "xp": 88.0
         }
       ],
       "Dragon's Nest": [
         {
           "name": "Zealot",
-          "level": 55,
+          "level": 73,
           "max_health": 13000,
-          "xp": 45.0
+          "xp": 109.0
         }
       ],
       "Zealot Bruiser Hideout": [
         {
           "name": "Zealot Bruiser",
-          "level": 100,
+          "level": 115,
           "max_health": 65000,
-          "xp": 78.0
+          "xp": 172.0
         }
       ],
       "Void Sepulture": [
         {
           "name": "Voidling Fanatic",
-          "level": 85,
+          "level": 183,
           "max_health": 750000,
-          "xp": 110.0
+          "xp": 274.0
         },
         {
           "name": "§dVoidling Extremist",
-          "level": 100,
+          "level": 305,
           "max_health": 8000000,
-          "xp": 750.0
+          "xp": 457.0
         }
       ]
     },
@@ -194,35 +188,35 @@
       "Stronghold": [
         {
           "name": "Blaze",
-          "level": 70,
-          "max_health": 250,
-          "xp": 50.0
+          "level": 140,
+          "max_health": 250000,
+          "xp": 210.0
         },
         {
           "name": "Bezal",
-          "level": 80,
+          "level": 144,
           "max_health": 300000,
-          "xp": 60.0
+          "xp": 216.0
         },
         {
-          "name": "Mutatet Blaze",
-          "level": 70,
+          "name": "Mutated Blaze",
+          "level": 163,
           "max_health": 500000,
-          "xp": 75.0
+          "xp": 244.0
         }
       ],
       "Smoldering Tomb": [
         {
           "name": "Smoldering Blaze",
-          "level": 95,
+          "level": 201,
           "max_health": 2000000,
-          "xp": 320.0
+          "xp": 301.0
         },
         {
           "name": "§4Millennia-Aged Blaze",
-          "level": 110,
+          "level": 290,
           "max_health": 12000000,
-          "xp": 960.0
+          "xp": 435.0
         }
       ]
     },
@@ -233,37 +227,37 @@
       "3": [
         {
           "name": "§c§lRevenant Sycophant",
-          "level": 80,
-          "max_health": 24000,
-          "xp": 360.0
+          "level": 114,
+          "max_health": 50000,
+          "xp": 855.0
         }
       ],
       "4": [
         {
           "name": "§c§lRevenant Champion",
-          "level": 150,
-          "max_health": 90000,
-          "xp": 600.0
+          "level": 179,
+          "max_health": 250000,
+          "xp": 1342.0
         },
         {
           "name": "§4§lDeformed Revenant",
-          "level": 300,
-          "max_health": 360000,
-          "xp": 1200.0
+          "level": 217,
+          "max_health": 500000,
+          "xp": 1627.0
         }
       ],
       "5": [
         {
           "name": "§c§lAtoned Champion",
-          "level": 390,
-          "max_health": 600000,
-          "xp": 900.0
+          "level": 271,
+          "max_health": 1000000,
+          "xp": 1626.0
         },
         {
           "name": "§4§lAtoned Revenant",
-          "level": 770,
-          "max_health": 2400000,
-          "xp": 1600.0
+          "level": 329,
+          "max_health": 2500000,
+          "xp": 1974.0
         }
       ]
     },
@@ -271,37 +265,37 @@
       "3": [
         {
           "name": "§cTarantula Vermin",
-          "level": 120,
-          "max_health": 54000,
-          "xp": 150.0
+          "level": 143,
+          "max_health": 100000,
+          "xp": 1072.0
         }
       ],
       "4": [
         {
           "name": "§c§lTarantula Beast",
-          "level": 190,
-          "max_health": 144000,
-          "xp": 250.0
+          "level": 210,
+          "max_health": 500000,
+          "xp": 1575.0
         },
         {
           "name": "§4§lMutant Tarantula",
-          "level": 380,
-          "max_health": 576000,
-          "xp": 500.0
+          "level": 241,
+          "max_health": 750000,
+          "xp": 1882.0
         }
       ],
       "5": [
         {
           "name": "§c§lPrimordial Jockey",
-          "level": 470,
-          "max_health": 1000000,
-          "xp": 1350.0
+          "level": 304,
+          "max_health": 1750000,
+          "xp": 1824.0
         },
         {
           "name": "§4§lPrimordial Viscount",
-          "level": 1020,
-          "max_health": 4000000,
-          "xp": 2600.0
+          "level": 342,
+          "max_health": 3000000,
+          "xp": 2052.0
         }
       ]
     },
@@ -309,23 +303,23 @@
       "3": [
         {
           "name": "§c§lPack Enforcer",
-          "level": 110,
+          "level": 109,
           "max_health": 45000,
-          "xp": 150.0
+          "xp": 817.0
         }
       ],
       "4": [
         {
           "name": "§c§lSven Follower",
-          "level": 170,
+          "level": 169,
           "max_health": 120000,
-          "xp": 250.0
+          "xp": 1267.0
         },
         {
           "name": "§4§lSven Alpha",
-          "level": 350,
+          "level": 238,
           "max_health": 480000,
-          "xp": 500.0
+          "xp": 1785.0
         }
       ]
     },
@@ -333,23 +327,23 @@
       "3": [
         {
           "name": "§5§lVoidling Devotee",
-          "level": 1730,
-          "max_health": 8400000,
-          "xp": 800.0
+          "level": 373,
+          "max_health": 7500000,
+          "xp": 2797.0
         }
       ],
       "4": [
         {
           "name": "§5§lVoidling Radical",
-          "level": 2500,
-          "max_health": 17500000,
-          "xp": 2000.0
+          "level": 448,
+          "max_health": 15000000,
+          "xp": 3360.0
         },
         {
           "name": "§4§lVoidcrazed Maniac",
-          "level": 4330,
-          "max_health": 52500000,
-          "xp": 5000.0
+          "level": 512,
+          "max_health": 30000000,
+          "xp": 3840.0
         }
       ]
     },
@@ -357,23 +351,23 @@
       "3": [
         {
           "name": "§c§lFlare Demon",
-          "level": 1730,
-          "max_health": 9000000,
-          "xp": 1200.0
+          "level": 381,
+          "max_health": 8750000,
+          "xp": 2857.0
         }
       ],
       "4": [
         {
           "name": "§c§lKindleheart Demon",
-          "level": 2500,
+          "level": 456,
           "max_health": 17500000,
-          "xp": 2400.0
+          "xp": 3420.0
         },
         {
           "name": "§4§lBurningsoul Demon",
-          "level": 4330,
-          "max_health": 50000000,
-          "xp": 8000.0
+          "level": 522,
+          "max_health": 35000000,
+          "xp": 3915.0
         }
       ]
     },
@@ -419,13 +413,13 @@
         "proper_pet_names": [
           "GHOUL"
         ],
-        "scaling": [
+        "scaling_wisdom": [
           0,
           0,
           0,
-          0.005,
-          0.005,
-          0.005
+          0.5,
+          0.5,
+          0.5
         ]
       }
     },
@@ -434,13 +428,13 @@
         "proper_pet_names": [
           "TARANTULA"
         ],
-        "scaling": [
+        "scaling_wisdom": [
           0,
           0,
           0,
           0,
-          0.005,
-          0.005
+          0.5,
+          0.5
         ]
       }
     },
@@ -449,13 +443,13 @@
         "proper_pet_names": [
           "HOUND"
         ],
-        "scaling": [
+        "scaling_wisdom": [
           0,
           0,
           0,
           0,
-          0.005,
-          0.005
+          0.5,
+          0.5
         ]
       }
     },
@@ -464,13 +458,13 @@
         "proper_pet_names": [
           "ENDERMAN"
         ],
-        "scaling": [
+        "scaling_wisdom": [
           0,
           0,
           0,
           0,
           0,
-          0.005
+          0.5
         ]
       },
       "INFERNO": {
@@ -482,12 +476,12 @@
             "SUBZERO_WISP"
           ],
           "scaling": [
-            0.003,
-            0.004,
-            0.0045,
-            0.005,
-            0.005,
-            0.005
+            0,
+            0.3,
+            0.4,
+            0.45,
+            0.5,
+            0.5
           ]
         }
       },
