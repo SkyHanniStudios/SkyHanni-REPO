@@ -1306,7 +1306,9 @@
     "Spaceman": {
       "rarity": "special",
       "need_items": [],
-      "show_chat_message": true
+      "show_chat_message": true,
+      "mode": "farming_1",
+      "position": "260;182;-565"
     },
     "Stella": {
       "rarity": "uncommon",
@@ -1314,6 +1316,14 @@
       "mode": "hub",
       "position": "17:70:-100",
       "skinOrType": "EntityVillager"
+    },
+    "Sam" : {
+      "rarity": "legendary",
+      "need_items": [
+        "Wheat"
+      ],
+      "mode": "garden",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTI0NzcyMjk1MiwKICAicHJvZmlsZUlkIiA6ICJjYmFkZmRmNTRkZTM0N2UwODQ3MjUyMDIyYTFkNGRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJvRml3aSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NWRjZmM4YjMyMDAzMjZiOGY2MWQ4MDYxNWM1YjUzNjk5N2ExMTg1NzBhNDdmMWQzNTMwNjMyOTY5MjFmZTEzIgogICAgfQogIH0KfQ=="
     },
     "Tammy": {
       "rarity": "rare",
@@ -1621,6 +1631,23 @@
       "position": "-49:70:-60",
       "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTYyNTg2MjUzNTA5OSwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YjFhNjg0ZTI3NGY2MWJkMjUwZDhkZGNlNTcxYzgxNjY2YzMwNTZjY2YyZjNkZjVkMGEzZDYwMjc0YmQzZThjIgogICAgfQogIH0KfQ=="
     },
+    "Jeff": {
+      "rarity": "legendary",
+      "need_items": [
+        "Vermin Vaporizer Chip",
+        "Synthesis Chip",
+        "Sowledge Chip",
+        "Mechamind Chip",
+        "Hypercharge Chip",
+        "Evergreen Chip",
+        "Overdrive Chip",
+        "Cropshot Chip",
+        "Quickdraw Chip",
+        "Rarefinder Chip"
+      ],
+      "mode": "garden",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTc1NjgyNTA3NDg4OSwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhNGE3Nzg0MDQ0OTQzN2QyMWY5ZDVmMDQ3ZjUxODQxM2NiMmY2OWUzZWNiZmI5OTM4NjY0OWM5OTdjYTFlOTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+    },
     "Lift Operator": {
       "rarity": "uncommon",
       "need_items": [],
@@ -1736,6 +1763,32 @@
       "mode": "combat_3",
       "position": "-504:101:-284",
       "skinOrType": "eyJ0aW1lc3RhbXAiOjE1NjQwODUzMTg2ODcsInByb2ZpbGVJZCI6ImEyZjgzNDU5NWM4OTRhMjdhZGQzMDQ5NzE2Y2E5MTBjIiwicHJvZmlsZU5hbWUiOiJiUHVuY2giLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3ZjdiNTFjYTY5NjZiZTJkZWNmZWIzZDU4NWQyZDY1NDE5M2IwM2NiOGMxMzY1OGE0MzY5YjU5MTRkZmU4NmMifX19"
+    },
+    "Pesthunter Pamela": {
+      "rarity": "legendary",
+      "need_items": [
+        "Burrowing Spores",
+        "Beady Eyes",
+        "Flowering Bouquet",
+        "Squeaky Toy",
+        "Clipped Wings",
+        "Mantid Claw"
+      ],
+      "mode": "garden",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU1NzEwODk1NywKICAicHJvZmlsZUlkIiA6ICJhNWZlYWViNDdhYjA0ZDZiYTk2ZjMyOGJjMDQ3MDZjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJYeW5kcmEyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJhNjA0NmNmODQ2MjgxMzU1NjNlMmM0OWVlOWUxZmJiZDExNWY5MTZjOTZhN2E4NWVhOGU5NzM4NzY1ZGExNWIiCiAgICB9CiAgfQp9"
+    },
+    "Pesthunter Phillip": {
+      "rarity": "legendary",
+      "need_items": [
+        "Compost",
+        "Plant Matter",
+        "Dung",
+        "Honey Jar",
+        "Tasty Chesse",
+        "Jelly"
+      ],
+      "mode": "garden",
+      "skinOrType": "ewogICJ0aW1lc3RhbXAiIDogMTY5NzU1NzA5MzQ5NSwKICAicHJvZmlsZUlkIiA6ICI4NmRlYmE5ZjBjNTI0MTA0YWFkMjUyOTdhMTAzNjFmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFc2hlSG9yY2hhdGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQwZjY4OWZjNDdkM2Y3NzczZGJmYzM2YWY0NmE0MWUxNGU0M2I0ODBkODkxYmY0YjliZjFlYjgwNDM4MTc0MiIKICAgIH0KICB9Cn0="
     },
     "Queen Nyx": {
       "rarity": "legendary",
