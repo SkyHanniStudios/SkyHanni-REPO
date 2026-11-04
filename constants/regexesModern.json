@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "1bb12fa",
+  "sourceLabel": "e666e96",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -162,6 +162,7 @@
     "chat.sound.responsedog": "(?:^|^.* )(?: |§.)*(?i)(?:bark|a*w*r+u*f+|w+oo+f+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "chat.sound.responsedoggrowl": "(?:^|^.* )(?: |§.)*(?i)(?:g+rr+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "chat.sound.responsedoghowl": "(?:^|^.* )(?: |§.)*(?i)(?:a+w+oo+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
+    "chat.sound.responsefox": "(?:^|^.* )(?: |§.)*(?i)(?:y+i+p+)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "chat.sound.responsefrog": "(?:^|^.* )(?: |§.)*(?i)(?:ribbit)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "chat.sound.responsegoat": "(?:^|^.* )(?: |§.)*(?i)(?:bleat)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
     "chat.sound.responsehorse": "(?:^|^.* )(?: |§.)*(?i)(?:neigh)(?: |§.|!|\\?|\\.)*(?:$| .*$)",
