@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "e666e96",
+  "sourceLabel": "960181e",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1703,7 +1703,7 @@
     "mob.detection.pattern.pet.entities": "^§8\\[§7Lv\\d+§8] §.(?\u003cname\u003eHorse|Armadillo|Skeleton Horse|Pig|Rat)$",
     "mob.detection.pattern.petcare": "^\\[\\w+ (?\u003clevel\u003e\\d+)\\] (?\u003cname\u003e.*)",
     "mob.detection.pattern.shiny": "SHINY PIG",
-    "mob.detection.pattern.summon.owner": ".*Spawned by: (?\u003cname\u003e.*).*",
+    "mob.detection.pattern.summon.owner": "(?\u003cname\u003e\\w+)\u0027s? SLAYER BOSS",
     "museum.all-items-donated": "Items Donated: 100%",
     "party.invite.expired": "§eThe party invite from §r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas expired\\.",
     "party.invite.received": "§r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas invited you to join their party!",
