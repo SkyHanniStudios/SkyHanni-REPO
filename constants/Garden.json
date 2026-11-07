@@ -1308,7 +1308,7 @@
       "need_items": [],
       "show_chat_message": true,
       "mode": "farming_1",
-      "position": "260;182;-565"
+      "position": "260:182:-565"
     },
     "Stella": {
       "rarity": "uncommon",
