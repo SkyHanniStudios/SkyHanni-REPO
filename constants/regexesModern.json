@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "960181e",
+  "sourceLabel": "787d803",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1465,8 +1465,9 @@
     "misc.chocolatefactory.hitman.slotcost": ".*§7Cost §6(?\u003ccost\u003e[\\d,]+) Coins.*",
     "misc.chocolatefactory.hoppity.call.init.colorless": "✆ Hoppity ✆.*",
     "misc.chocolatefactory.hoppity.call.pickup.colorless": "\\[NPC] Hoppity: ✆ What\u0027s up, .*\\?",
-    "misc.chocolatefactory.hoppity.call.pickup.outgoing": "\\/selectnpcoption hoppity r_2_1",
     "misc.chocolatefactory.hoppity.inventory": "Hoppity",
+    "misc.chocolatefactory.hoppity.npc.id": "hoppity",
+    "misc.chocolatefactory.hoppity.response.accept": "r_2_1",
     "misc.chocolatefactory.hoppity.visitor.accepted": "\\[NPC\\] Hoppity: Simply exquisite.+",
     "misc.chocolatefactory.inventory.chocolatefactory": "Chocolate Factory",
     "misc.chocolatefactory.inventory.mealegg.continue": "(?:§.)*Click to open Chocolate Factory!",
@@ -1705,6 +1706,7 @@
     "mob.detection.pattern.shiny": "SHINY PIG",
     "mob.detection.pattern.summon.owner": "(?\u003cname\u003e\\w+)\u0027s? SLAYER BOSS",
     "museum.all-items-donated": "Items Donated: 100%",
+    "npc-api.dialogue.response": "skyblock:dialogue_response",
     "party.invite.expired": "§eThe party invite from §r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas expired\\.",
     "party.invite.received": "§r§.(?:\\[.*].)?(?\u003cplayer\u003e\\S+) §r§ehas invited you to join their party!",
     "pet.nametag": "(?\u003cstart\u003e§8\\[§7Lv(?\u003clvl\u003e\\d+)§8]) (?\u003crarity\u003e§.)(?\u003cpet\u003e[\\w\\s]+)(?\u003cskin\u003e§. ✦)?",
