@@ -26,6 +26,7 @@
     "dhub",
     "dmines",
     "drag",
+    "dragon",
     "dragons",
     "dungeon_hub",
     "dungeons",
@@ -316,6 +317,7 @@
       "z": -275.5,
       "commands": [
         "drag",
+        "dragon",
         "dragons"
       ]
     },
