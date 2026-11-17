@@ -296,7 +296,7 @@
     },
     "looting": {
       "loreName": "Looting",
-      "nbtName": "looting",
+      "nbtName": "looting_new",
       "goodLevel": 6,
       "maxLevel": 7
     },
