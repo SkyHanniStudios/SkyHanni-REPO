@@ -168,9 +168,36 @@
       }
     },
     "GALATEA": {
-      "name": "Galatea",
+      "name": "Moonglade Marsh",
       "api_name": "foraging_2",
       "max_players": 12
+    },
+    "LOTUS_ATOLL": {
+      "name": "Lotus Atoll",
+      "api_name": "lotus_atoll",
+      "max_players": 16,
+      "bounds": {
+        "max_x": 113,
+        "min_x": -30,
+        "max_z": 54,
+        "min_z": -78
+      }
+    },
+    "TORRHUS_CANYON": {
+      "name": "Torrhus Canyon",
+      "api_name": "foraging_3",
+      "max_players": 24,
+      "bounds": {
+        "max_x": -499,
+        "min_x": -770,
+        "max_z": 310,
+        "min_z": 127
+      }
+    },
+    "SAFARI": {
+      "name": "Critter Safari",
+      "api_name": "safari",
+      "max_players": 4
     },
     "NONE": {
       "name": ""

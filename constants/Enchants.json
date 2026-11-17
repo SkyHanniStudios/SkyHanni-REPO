@@ -36,6 +36,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "bug blender": {
+      "loreName": "Bug Blender",
+      "nbtName": "bug_blender",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "caster": {
       "loreName": "Caster",
       "nbtName": "caster",
@@ -150,6 +156,12 @@
       "goodLevel": 3,
       "maxLevel": 5
     },
+    "feast": {
+      "loreName": "Feast",
+      "nbtName": "feast",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "feather falling": {
       "loreName": "Feather Falling",
       "nbtName": "feather_falling",
@@ -198,8 +210,8 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
-    "ferocious mana": {
-      "loreName": "Ferocious Mana",
+    "vivacious vitality": {
+      "loreName": "Vivacious Vitality",
       "nbtName": "ferocious_mana",
       "goodLevel": 0,
       "maxLevel": 10
@@ -208,7 +220,7 @@
       "loreName": "Forest Pledge",
       "nbtName": "forest_pledge",
       "goodLevel": 2,
-      "maxLevel": 5
+      "maxLevel": 6
     },
     "giant killer": {
       "loreName": "Giant Killer",
@@ -246,8 +258,8 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
-    "hardened mana": {
-      "loreName": "Hardened Mana",
+    "hardened vitality": {
+      "loreName": "Hardened Vitality",
       "nbtName": "hardened_mana",
       "goodLevel": 0,
       "maxLevel": 10
@@ -269,6 +281,12 @@
       "nbtName": "infinite_quiver",
       "goodLevel": 5,
       "maxLevel": 10
+    },
+    "karma": {
+      "loreName": "Karma",
+      "nbtName": "Karma",
+      "goodLevel": 0,
+      "maxLevel": 6
     },
     "knockback": {
       "loreName": "Knockback",
@@ -324,8 +342,8 @@
       "goodLevel": 0,
       "maxLevel": 3
     },
-    "mana vampire": {
-      "loreName": "Mana Vampire",
+    "vampiric vitality": {
+      "loreName": "Vampiric Vitality",
       "nbtName": "mana_vampire",
       "goodLevel": 0,
       "maxLevel": 10
@@ -347,6 +365,12 @@
       "nbtName": "pesterminator",
       "goodLevel": 0,
       "maxLevel": 6
+    },
+    "petalfall": {
+      "loreName": "Petalfall",
+      "nbtName": "petalfall",
+      "goodLevel": 0,
+      "maxLevel": 5
     },
     "piercing": {
       "loreName": "Piercing",
@@ -401,6 +425,12 @@
       "nbtName": "punch",
       "goodLevel": 2,
       "maxLevel": 2
+    },
+    "pyroclasm": {
+      "loreName": "Pyroclasm",
+      "nbtName": "magmarizer",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "quantum": {
       "loreName": "Quantum",
@@ -460,7 +490,7 @@
       "loreName": "Scuba",
       "nbtName": "scuba",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 6
     },
     "sharpness": {
       "loreName": "Sharpness",
@@ -532,10 +562,10 @@
       "loreName": "Stealth",
       "nbtName": "stealth",
       "goodLevel": 0,
-      "maxLevel": 1
+      "maxLevel": 6
     },
-    "strong mana": {
-      "loreName": "Strong Mana",
+    "strong vitality": {
+      "loreName": "Strong Vitality",
       "nbtName": "strong_mana",
       "goodLevel": 0,
       "maxLevel": 10
@@ -550,7 +580,7 @@
       "loreName": "Thorns",
       "nbtName": "thorns",
       "goodLevel": 3,
-      "maxLevel": 3
+      "maxLevel": 4
     },
     "thunderbolt": {
       "loreName": "Thunderbolt",
@@ -598,79 +628,79 @@
       "loreName": "Turbo-Cacti",
       "nbtName": "turbo_cactus",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-cane": {
       "loreName": "Turbo-Cane",
       "nbtName": "turbo_cane",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-carrot": {
       "loreName": "Turbo-Carrot",
       "nbtName": "turbo_carrot",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-cocoa": {
       "loreName": "Turbo-Cocoa",
       "nbtName": "turbo_coco",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-melon": {
       "loreName": "Turbo-Melon",
       "nbtName": "turbo_melon",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-mushrooms": {
       "loreName": "Turbo-Mushrooms",
       "nbtName": "turbo_mushrooms",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-potato": {
       "loreName": "Turbo-Potato",
       "nbtName": "turbo_potato",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-pumpkin": {
       "loreName": "Turbo-Pumpkin",
       "nbtName": "turbo_pumpkin",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-warts": {
       "loreName": "Turbo-Warts",
       "nbtName": "turbo_warts",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-wheat": {
       "loreName": "Turbo-Wheat",
       "nbtName": "turbo_wheat",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-rose": {
       "loreName": "Turbo-Rose",
       "nbtName": "turbo_rose",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-moonflower": {
       "loreName": "Turbo-Moonflower",
       "nbtName": "turbo_moonflower",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "turbo-sunflower": {
       "loreName": "Turbo-Sunflower",
       "nbtName": "turbo_sunflower",
       "goodLevel": 0,
-      "maxLevel": 5
+      "maxLevel": 7
     },
     "vampirism": {
       "loreName": "Vampirism",
@@ -689,6 +719,12 @@
       "nbtName": "vicious",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "woodsplitter": {
+      "loreName": "Woodsplitter",
+      "nbtName": "arcane",
+      "goodLevel": 5,
+      "maxLevel": 6
     }
   },
   "ULTIMATE": {
@@ -812,6 +848,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "sunset": {
+      "loreName": "Sunset",
+      "nbtName": "ultimate_sunset",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "the one": {
       "loreName": "The One",
       "nbtName": "ultimate_the_one",
@@ -869,7 +911,7 @@
       "goodLevel": 0,
       "maxLevel": 10,
       "statLabel": "cultivatedCrops",
-      "stackLevel": [0, 1000, 5000, 25000, 100000, 250000, 1000000, 2500000, 10000000, 2500000]
+      "stackLevel": [0, 1000, 5000, 25000, 100000, 250000, 1000000, 2500000, 10000000, 25000000]
     },
     "expertise": {
       "loreName": "Expertise",
@@ -906,12 +948,6 @@
       "maxLevel": 10,
       "statLabel": "toxophileCombatXp",
       "stackLevel": [0, 50000, 100000, 250000, 500000, 1000000, 1500000, 2000000, 2500000, 3000000]
-    },
-    "woodsplitter": {
-      "loreName": "Woodsplitter",
-      "nbtName": "arcane",
-      "goodLevel": 5,
-      "maxLevel": 6
     }
   }
 }
