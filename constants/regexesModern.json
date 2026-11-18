@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "398ebe7",
+  "sourceLabel": "ee29576",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1197,6 +1197,7 @@
     "inventory.pagescrolling.illegal.0": "Large Chest",
     "inventory.pagescrolling.illegal.1": "Chest",
     "inventory.personalcompactor.internalname": "PERSONAL_(?\u003ctype\u003e[^_]+)_(?\u003ctier\u003e\\d+)",
+    "inventory.sack.display.stored": "Stored: (?\u003cstored\u003e[\\d.,]+[kKmMbB]?)/(?\u003ctotal\u003e[\\d.,]+[kKmMbB]?)",
     "inventory.statstuning.points": "§7Stat has: §e(?\u003camount\u003e\\d+) points?",
     "inventory.stockofstonks.bid.new": " {3}Minimum Bid: (?\u003camount\u003e[\\d,]+) Coins",
     "inventory.stockofstonks.currentbid": "Your current bid: (?:None|(?\u003camount\u003e[\\d,]+) Coins)",
