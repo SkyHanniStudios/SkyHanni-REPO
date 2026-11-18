@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ee29576",
+  "sourceLabel": "3b2b058",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -1865,6 +1865,9 @@
     "slayer.rngmeter.inventoryname.slayer": "Slayer",
     "slayer.rngmeter.update": " {3}§dRNG Meter §f- §d(?\u003cexp\u003e.*) Stored XP",
     "slayer.spider.eggsac.timer": "\\d+s \\d+/\\d+",
+    "slayer.vampire-features.boss-name": "Bloodfiend .*",
+    "slayer.vampire-features.steak-health": "Bloodfiend .* [\\d,]+/[\\d,]+❤ ҉",
+    "slayer.vampire-features.twinclaws-name": ".*TWINCLAWS.*",
     "stash.compact.differing.materials.count": "§f *§8\\(This totals (?\u003ccount\u003e[\\d,]+) types? of (?\u003ctype\u003eitem|material)s? stashed!\\).*",
     "stash.compact.generic": "§eOne or more (?:item|material)s? didn\u0027t fit in your inventory and were added to your (?:item|material) stash! §6Click here §eto pick them up!",
     "stash.compact.material.count": "§f *§7You have §.(?\u003ccount\u003e[\\d,]+) (?:§.)+(?\u003ctype\u003eitem|material)s? stashed away!.*",
