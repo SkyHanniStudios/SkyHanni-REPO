@@ -146,6 +146,12 @@
         "Could not read the cost of an item"
       ],
       "fixed_in": "9.3.0"
+    },
+    {
+      "message_starts_with": [
+        "Could not read category for item"
+      ],
+      "fixed_in": "99.99.99"
     }
   ]
 }
