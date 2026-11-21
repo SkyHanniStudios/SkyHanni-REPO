@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "3b2b058",
+  "sourceLabel": "ab0660f",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -224,7 +224,7 @@
     "combat.endernodetracker.chat.multi": "§5§lENDER NODE! §r§fYou found §r§8(?\u003camount\u003e\\d+)x §r(?\u003cname\u003e.*)§r§f!",
     "combat.endernodetracker.chat.one": "§5§lENDER NODE! §r§fYou found §r(?:§8§r)?(?\u003cname\u003e.*)§r§f!",
     "combat.ghosttracker.bagofcash.colorless": "The ghost\u0027s death materialized 1,000,000 coins from the mists!",
-    "combat.ghosttracker.itemdrop.colorless": "RARE DROP! (?\u003citem\u003e.+) \\(\\+(?\u003cmf\u003e\\d+)%?  Magic Find\\)",
+    "combat.ghosttracker.itemdrop.colorless": "RARE DROP! (?\u003citem\u003e.+) \\(\\+(?\u003cmf\u003e\\d+)%? ? Magic Find\\)",
     "combat.ghosttracker.killcombo.end.colorless": "Your Kill Combo has expired! You reached a (?\u003ckill\u003e[\\d,.]+) Kill Combo!",
     "combat.ghosttracker.tablist.bestiary-no-color": "\\s*Ghost (?\u003clevel\u003e\\d+|[XVI]+): (?\u003ckills\u003e[\\d,.]+)\\/(?\u003ckillsToNext\u003e[\\d,.]+)",
     "combat.ghosttracker.tablist.bestiarymax-no-color": "\\s*Ghost (?\u003clevel\u003e\\d+|[XVI]+): MAX",
