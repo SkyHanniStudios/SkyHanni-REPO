@@ -42,6 +42,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "butcher": {
+      "loreName": "Butcher",
+      "nbtName": "butcher",
+      "goodLevel": 5,
+      "maxLevel": 7
+    },
     "caster": {
       "loreName": "Caster",
       "nbtName": "caster",
