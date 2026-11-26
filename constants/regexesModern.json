@@ -1,5 +1,5 @@
 {
-  "sourceLabel": "ab0660f",
+  "sourceLabel": "a608a07",
   "regexes": {
     "abiphone.snake.name": "Snake|Eat 8 apples to win!",
     "achievements.bestiary": "Bestiary Milestone (?\u003cmilestone\u003e.*)",
@@ -31,7 +31,7 @@
     "actionbar.mana": ".*§b(?\u003cmana\u003e[\\d,]+)/[\\d,]+.*",
     "actionbar.rift.time": "§[a7](?\u003criftTime\u003e[\\dms ]+).*",
     "actionbar.skyblock.xp": ".*(§b\\+\\d+ SkyBlock XP §.\\([^()]+\\)§b \\(\\d+/\\d+\\)).*",
-    "api.accessory.bag.inventory.name": "Accessory Bag(?: \\(\\d+\\/\\d+\\))?",
+    "api.accessory.bag.inventory.name": "(?:\\(\\d+\\/\\d+\\) )?Accessory Bag",
     "api.anvil.inventory": "Anvil",
     "api.effects.chat.effects-hint": " Press TAB or type /effects to view your active effects!",
     "api.effects.chat.god-pot-consume": ".*God Potion grants you powers for (?\u003ctime\u003e[dhms0-9 ]*)!.*",
@@ -1084,7 +1084,7 @@
     "hunting.safari.hideyho-finder.begin-hiding": "\\[MOB] Hideyho: No peeking!",
     "hunting.safari.hideyho-finder.first-found": "\\[MOB] Hideyho: Hehe, you found me!",
     "hunting.safari.hideyho-finder.found-after-hiding": "\\[MOB] Hideyho: Aah! You found me!",
-    "inv.acceptable": "^(?:Accessory Bag(?: \\(\\d+\\/\\d+\\))?|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
+    "inv.acceptable": "^(?:(?:\\(\\d+\\/\\d+\\) )?Accessory Bag|Auctions Browser|Manage Auctions|Auctions: \".*\"?)$",
     "inventory.activebeaconeffect.inventory": "Profile Stat Upgrades",
     "inventory.activebeaconeffect.slot.active": "§aActive stat boost!",
     "inventory.attributeshards.advanced.mode.colorless": "Advanced Mode unlocked at 30",
