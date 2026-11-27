@@ -2070,5 +2070,106 @@
     "PRICKLY_KISS",
     "SIMPLE_CARROT_CANDY",
     "SUNFLOWER_OIL"
-  ]
+  ],
+  "visitor_rewards": {
+    "FLOWERING_BOUQUET": {
+      "internal_name": "FLOWERING_BOUQUET"
+    },
+    "OVERGROWN_GRASS": {
+      "internal_name": "OVERGROWN_GRASS"
+    },
+    "GREEN_BANDANA": {
+      "internal_name": "GREEN_BANDANA"
+    },
+    "DEDICATION": {
+      "internal_name": "DEDICATION;4"
+    },
+    "MUSIC_RUNE": {
+      "internal_name": "MUSIC_RUNE;1"
+    },
+    "SPACE_HELMET": {
+      "internal_name": "DCTR_SPACE_HELM"
+    },
+    "CULTIVATING": {
+      "internal_name": "CULTIVATING;1"
+    },
+    "REPLENISH": {
+      "internal_name": "REPLENISH;1"
+    },
+    "DELICATE": {
+      "internal_name": "DELICATE;5"
+    },
+    "COPPER_DYE": {
+      "internal_name": "DYE_COPPER"
+    },
+    "JUNGLE_KEY": {
+      "internal_name": "JUNGLE_KEY"
+    },
+    "FRUIT_BOWL": {
+      "internal_name": "FRUIT_BOWL"
+    },
+    "HARVEST_HARBINGER": {
+      "internal_name": "POTION_HARVEST_HARBINGER;5"
+    },
+    "HYPERCHARGE_CHIP": {
+      "internal_name": "HYPERCHARGE_GARDEN_CHIP"
+    },
+    "QUICKDRAW_CHIP": {
+      "internal_name": "QUICKDRAW_GARDEN_CHIP"
+    },
+    "FARMING_EXP_BOOST_EPIC": {
+      "internal_name": "PET_ITEM_FARMING_SKILL_BOOST_EPIC"
+    },
+    "UNFULFILLED_JERRYSEED": {
+      "internal_name": "UNFULFILLED_JERRYSEED"
+    },
+    "VOTER_BADGE": {
+      "internal_name": "VOTER_BADGE"
+    },
+    "VOTER_BADGE_VIP": {
+      "internal_name": "VOTER_BADGE_VIP"
+    },
+    "VOTER_BADGE_ELITE": {
+      "internal_name": "VOTER_BADGE_ELITE"
+    },
+    "VOTER_BADGE_SUPREME": {
+      "internal_name": "VOTER_BADGE_SUPREME"
+    },
+    "DYE_WILD_STRAWBERRY": {
+      "internal_name": "DYE_WILD_STRAWBERRY"
+    },
+    "VELVET_TOP_HAT": {
+      "internal_name": "VELVET_TOP_HAT"
+    },
+    "CASHMERE_JACKET": {
+      "internal_name": "CASHMERE_JACKET"
+    },
+    "SATIN_TROUSERS": {
+      "internal_name": "SATIN_TROUSERS"
+    },
+    "OXFORD_SHOES": {
+      "internal_name": "OXFORD_SHOES"
+    },
+    "CARNIVAL_TICKET": {
+      "internal_name": "CARNIVAL_TICKET"
+    },
+    "VISITORS_GRATITUDE": {
+      "internal_name": "VISITOR_GRATITUDE",
+      "aliases": [
+        "VISITORS_GRATITUDE"
+      ]
+    },
+    "FARMING_CONTEST_DISPLAY": {
+      "internal_name": "FARMING_CONTEST_DISPLAY"
+    },
+    "ASTRONAUT_PERSONALITY": {
+      "internal_name": "ASTRONAUT_PERSONALITY"
+    },
+    "FAST_FOOD_BARN_SKIN": {
+      "internal_name": "FAST_FOOD_BARN_SKIN"
+    },
+    "JELLY_GREENHOUSE_SKIN": {
+      "internal_name": "JELLY_GREENHOUSE_SKIN"
+    }
+  }
 }
