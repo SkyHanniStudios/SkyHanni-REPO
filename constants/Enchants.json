@@ -321,7 +321,7 @@
     "looting": {
       "loreName": "Looting",
       "nbtName": "looting_new",
-      "goodLevel": 6,
+      "goodLevel": 5,
       "maxLevel": 7
     },
     "luck of the sea": {

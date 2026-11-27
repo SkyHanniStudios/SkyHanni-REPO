@@ -142,7 +142,8 @@
       "FLEXBONE",
       "FISH_THE_FISH",
       "SWAMP_THE_FISH",
-      "PLASMA"
+      "PLASMA",
+      "INK_SPLAT"
     ],
     "Lava": [
       "MAGMA_FISH",
